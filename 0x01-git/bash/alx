@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ALXecho "ALX School is so cool!"
+=======
+echo "ALX School"ALX
+>>>>>>> update_script
 echo ALX
